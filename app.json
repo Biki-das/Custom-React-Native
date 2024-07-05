@@ -1,4 +1,7 @@
 {
   "name": "CustomAnimations",
-  "displayName": "CustomAnimations"
+  "displayName": "CustomAnimations",
+  "plugins": [
+    "expo-font"
+  ]
 }

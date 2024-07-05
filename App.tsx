@@ -1,117 +1,122 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
+import * as React from 'react';
+import {View, Text, FlatList, StyleSheet, TouchableOpacity} from 'react-native';
+import {NavigationContainer} from '@react-navigation/native';
+import {createNativeStackNavigator} from '@react-navigation/native-stack';
+import {StickyTabScroll} from './components/src/StickyTabsScroll';
+import {Streak} from './components/src/Streak';
+import {BehanceLogin} from './components/src/BehanceLogin';
+import {CustomBottomSheet} from './components/src/CustomBottomSheet';
+import {Waze} from './components/src/Waze';
+import {TickerComponent} from './components/src/Ticker';
+import {Bank} from './components/src/Bank';
+import {Beat} from './components/src/Beat';
+import {Spending} from './components/src/Spending';
+import {ColorfulCard} from './components/src/Card';
+import {InstagramStory} from './components/src/Story';
+import {BankingSlider} from './components/src/BankSlider';
+import {StackedCard} from './components/src/StackedCard';
+import {MenuTransition} from './components/src/Menu';
+import {CustomCarousel} from './components/src/CustomCarousel';
+import {CustomSectionList} from './components/src/SectionList';
+import {SmartRoom} from './components/src/SmartRoom';
+import {Theme} from './components/src/Theme';
+import {Todo} from './components/src/Todo';
 
-import React from 'react';
-import type {PropsWithChildren} from 'react';
-import {
-  SafeAreaView,
-  ScrollView,
-  StatusBar,
-  StyleSheet,
-  Text,
-  useColorScheme,
-  View,
-} from 'react-native';
+function HomeScreen({navigation}) {
+  const screens = [
+    {name: 'Bank', component: Bank},
+    {name: 'BankingSlider', component: BankingSlider},
+    {name: 'Beat', component: Beat},
+    {name: 'BehanceLogin', component: BehanceLogin},
+    {name: 'ColorfulCard', component: ColorfulCard},
+    {name: 'CustomBottomSheet', component: CustomBottomSheet},
+    {name: 'CustomCarousel', component: CustomCarousel},
+    {name: 'CustomSectionList', component: CustomSectionList},
+    {name: 'InstagramStory', component: InstagramStory},
+    {name: 'MenuTransition', component: MenuTransition},
+    {name: 'SmartRoom', component: SmartRoom},
+    {name: 'Spending', component: Spending},
+    {name: 'StackedCard', component: StackedCard},
+    {name: 'StickyTabScroll', component: StickyTabScroll},
+    {name: 'Streak', component: Streak},
+    {name: 'Todo', component: Todo},
+    {name: 'Ticker', component: TickerComponent},
+    {name: 'Theme', component: Theme},
+    {name: 'Waze', component: Waze},
+  ];
 
-import {
-  Colors,
-  DebugInstructions,
-  Header,
-  LearnMoreLinks,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
-
-type SectionProps = PropsWithChildren<{
-  title: string;
-}>;
-
-function Section({children, title}: SectionProps): React.JSX.Element {
-  const isDarkMode = useColorScheme() === 'dark';
   return (
-    <View style={styles.sectionContainer}>
-      <Text
-        style={[
-          styles.sectionTitle,
-          {
-            color: isDarkMode ? Colors.white : Colors.black,
-          },
-        ]}>
-        {title}
-      </Text>
-      <Text
-        style={[
-          styles.sectionDescription,
-          {
-            color: isDarkMode ? Colors.light : Colors.dark,
-          },
-        ]}>
-        {children}
-      </Text>
+    <View
+      style={{
+        flex: 1,
+        alignItems: 'center',
+        justifyContent: 'center',
+        width: '100%',
+      }}>
+      <FlatList
+        data={screens}
+        keyExtractor={item => item.name}
+        renderItem={({item}) => (
+          <ComponentItem>
+            <TouchableOpacity onPress={() => navigation.navigate(item.name)}>
+              <Text style={{fontSize: 18}}>{item.name}</Text>
+            </TouchableOpacity>
+          </ComponentItem>
+        )}
+      />
     </View>
   );
 }
 
-function App(): React.JSX.Element {
-  const isDarkMode = useColorScheme() === 'dark';
+const Stack = createNativeStackNavigator();
 
-  const backgroundStyle = {
-    backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
-  };
-
+function App() {
   return (
-    <SafeAreaView style={backgroundStyle}>
-      <StatusBar
-        barStyle={isDarkMode ? 'light-content' : 'dark-content'}
-        backgroundColor={backgroundStyle.backgroundColor}
-      />
-      <ScrollView
-        contentInsetAdjustmentBehavior="automatic"
-        style={backgroundStyle}>
-        <Header />
-        <View
-          style={{
-            backgroundColor: isDarkMode ? Colors.black : Colors.white,
-          }}>
-          <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
-          </Section>
-          <Section title="See Your Changes">
-            <ReloadInstructions />
-          </Section>
-          <Section title="Debug">
-            <DebugInstructions />
-          </Section>
-          <Section title="Learn More">
-            Read the docs to discover what to do next:
-          </Section>
-          <LearnMoreLinks />
-        </View>
-      </ScrollView>
-    </SafeAreaView>
+    <NavigationContainer>
+      <Stack.Navigator>
+        <Stack.Screen
+          name="Home"
+          component={HomeScreen}
+          options={{title: 'Components'}}
+        />
+        <Stack.Screen name="StickyTabScroll" component={StickyTabScroll} />
+        <Stack.Screen name="Streak" component={Streak} />
+        <Stack.Screen name="BehanceLogin" component={BehanceLogin} />
+        <Stack.Screen name="CustomBottomSheet" component={CustomBottomSheet} />
+        <Stack.Screen name="Waze" component={Waze} />
+        <Stack.Screen name="Todo" component={Todo} />
+        <Stack.Screen name="Ticker" component={TickerComponent} />
+        <Stack.Screen name="Theme" component={Theme} />
+        <Stack.Screen name="Bank" component={Bank} />
+        <Stack.Screen name="Beat" component={Beat} />
+        <Stack.Screen name="Spending" component={Spending} />
+        <Stack.Screen name="ColorfulCard" component={ColorfulCard} />
+        <Stack.Screen name="InstagramStory" component={InstagramStory} />
+        <Stack.Screen name="BankingSlider" component={BankingSlider} />
+        <Stack.Screen name="StackedCard" component={StackedCard} />
+        <Stack.Screen name="MenuTransition" component={MenuTransition} />
+        <Stack.Screen name="CustomCarousel" component={CustomCarousel} />
+        <Stack.Screen name="CustomSectionList" component={CustomSectionList} />
+        <Stack.Screen name="SmartRoom" component={SmartRoom} />
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 }
 
+function ComponentItem({children}) {
+  return <View style={styles.container}>{children}</View>;
+}
+
 const styles = StyleSheet.create({
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-  },
-  sectionDescription: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
-  },
-  highlight: {
-    fontWeight: '700',
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    backgroundColor: 'white',
+    padding: 12,
+    width: 380,
+    borderColor: 'gray',
+    marginTop: 10,
+    height: 50,
   },
 });
 

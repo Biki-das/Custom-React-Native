@@ -1,79 +1,53 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Custom Animations in React Native
 
-# Getting Started
+This project showcases a collection of custom animations developed for React Native applications. React Native, being a powerful framework for building mobile applications, offers a wide range of possibilities for creating engaging and smooth animations. However, implementing custom animations can be challenging due to the intricacies of mobile performance and animation APIs. This repository serves as a demonstration of overcoming these challenges to create visually appealing and performant animations for React Native apps.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Features
 
-## Step 1: Start the Metro Server
+- **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
+- **Streak Animation**: Visualize streaks in a fun and engaging way.
+- **Behance Style Login**: A login animation inspired by Behance's sleek design.
+- **Custom Bottom Sheet**: An interactive bottom sheet with custom animations.
+- **Waze Animation**: Recreating Waze's delightful animation patterns.
+- **Ticker Component**: A simple yet effective ticker animation.
+- **Bank UI**: Animate transitions and interactions in a banking app.
+  ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ0Nnl5NnB5bHIxd3pxamtjcXNreG1xY3Y0cXkyZmV2NGhrMmlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EswgoEhAeXrmx1IyO8/giphy.gif)
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+- **Spending Insights**: Visual animations to represent spending habits.
+- **Colorful Cards**: Animated cards with vibrant colors and transitions.
+- **Instagram Story Animation**: Capturing the essence of Instagram's story animations.
+- **Banking Slider**: A slider animation tailored for banking applications.
+  ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p2bnc1YTdya3pqOTlobjVveTgzbWhjYnUzN3U2MnJlb3d3bTI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdAJSClvlF9n1rbtk5/giphy.gif)
 
-To start Metro, run the following command from the _root_ of your React Native project:
+- **Stacked Cards**: Cards that stack and animate smoothly.
+- **Menu Transition**: A menu that transitions with a unique animation.
+- **Custom Carousel**: A carousel component with custom animations.
+- **Custom Section List**: An animated section list for better user engagement.
+- **Smart Room Control**: Animations for a smart room control app.
+- **TodoCheckList**: Animations for checking Todos.s
 
-```bash
-# using npm
-npm start
+## Getting Started
 
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
+To get started with this project, clone the repository to your local machine:
 
 ```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
+git clone https://github.com/Biki-das/custom-animations-react-native.git
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+```bash
+cd custom-animations-react-native
+```
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+```bash
+npm install
+```
 
-## Step 3: Modifying your App
+To ensure that all native dependencies are properly installed for iOS, you need to run pod install in the iOS directory of your React Native project. This step is crucial for linking any native modules that are included in your project.
 
-Now that you have successfully run the app, let's modify it.
+After running npm install to install your project's dependencies, navigate to the iOS directory and run pod install:
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+```bash
+cd ios
+pod install
+cd ..
+```
