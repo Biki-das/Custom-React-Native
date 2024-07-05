@@ -30,7 +30,7 @@ This project showcases a collection of custom animations developed for React Nat
 
 **Colorful Cards**: Animated cards with vibrant colors and transitions.
 
-![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdqdmZiaG5meXA1bGtwbGU2OWdoZnJmajJ1cG42cHd3enVpdmdicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ahgW0Wwldu5fgKyjBg/giphy.gif)
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZjeWNxZTBsbTdzZWpzbDl4bGJuMWoxdjQ1MTJzcXdvZ3N4empobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JSMfSFUUbCQbHjeuhR/giphy.gif)
 
 ---
 
