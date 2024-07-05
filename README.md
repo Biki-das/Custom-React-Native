@@ -4,11 +4,13 @@ This project showcases a collection of custom animations developed for React Nat
 
 ## Features
 
-**Bank UI**: Animate transitions and interactions in a banking app.
 ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ0Nnl5NnB5bHIxd3pxamtjcXNreG1xY3Y0cXkyZmV2NGhrMmlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EswgoEhAeXrmx1IyO8/giphy.gif)
+**Bank UI**: Animate transitions and interactions in a banking app.
 
-**Banking Slider**: A slider animation tailored for banking applications.
+---
+
 ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p2bnc1YTdya3pqOTlobjVveTgzbWhjYnUzN3U2MnJlb3d3bTI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdAJSClvlF9n1rbtk5/giphy.gif)
+**Banking Slider**: A slider animation tailored for banking applications.
 
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
