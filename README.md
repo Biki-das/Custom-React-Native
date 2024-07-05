@@ -73,6 +73,11 @@ This project showcases a collection of custom animations developed for React Nat
 
 ---
 
+**Stacked Cards**: Stacked Card Animations piled up
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R5YXpmeXhhNDVyZXRpYm9lcWYxMngzNmF6bWxoa3dreW5oYzBoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFsSvjDk0VkLusHI6F/giphy.gif)
+
+---
+
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
 - **Behance Style Login**: A login animation inspired by Behance's sleek design.
