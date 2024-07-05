@@ -82,6 +82,30 @@ This project showcases a collection of custom animations developed for React Nat
 
 ---
 
+**Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtxOHhjNmtxaGZpeHo5M25kaWQ3YW56ZHpmcTJjbDdva2YyZnEycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bmLA4kNJpNwtG5PeXN/giphy.gif)
+
+---
+
+**Streak Animation**: Visualize streaks in a fun and engaging way.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdrdWdmc2N4cDZ1cHZvZ3kzbnhqOHlqd3AxNHVraXd2OGV4ZHd4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vg2fr886Y0ec3o4R3/giphy.gif)
+
+---
+
+**Todo Check Off** Animations for checking Todos.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhkMDF2Zm5xZ3dqcXN1YzZsOGxraWNocHc2aXl4ZnAxY2hwZG8yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFMxFyPWr54kUmXB0r/giphy.gif)
+
+---
+
+**Ticker Component**: A simple yet effective ticker animation.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhlYXZmaTVvMzFkZGliZ3ZyZzl0eWM2Yzh2bnhtazM0MHBka3FlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvneFCtqC6UqWGq2Ep/giphy.gif)
+
+---
+
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
 - **Behance Style Login**: A login animation inspired by Behance's sleek design.
