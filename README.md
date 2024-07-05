@@ -71,7 +71,14 @@ This project showcases a collection of custom animations developed for React Nat
 ---
 
 **Spending Insights**: Visual animations to represent spending habits.
+
 ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI5ZmIybGF0cGw2M3p4YjFmc29wYWt1cXA5eW9tZnYxaGQyM3hhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/47AZoEQlKgLAS7QgeZ/giphy.gif)
+
+---
+
+**Stacked Card**: Animated Stacked Card piled up.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R5YXpmeXhhNDVyZXRpYm9lcWYxMngzNmF6bWxoa3dreW5oYzBoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFsSvjDk0VkLusHI6F/giphy.gif)
 
 ---
 
