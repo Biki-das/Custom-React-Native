@@ -52,6 +52,12 @@ This project showcases a collection of custom animations developed for React Nat
 
 ---
 
+**Instagram Story Animation**: Capturing the essence of Instagram's story animations.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F0ZXlob21wNXkzZ3Z3N2tsaW9vdGE3OXN0NWNtdXZoeWZhcmRlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnntpW02QrLoapM3Uf/giphy-downsized-large.gif)
+
+---
+
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
 - **Behance Style Login**: A login animation inspired by Behance's sleek design.
