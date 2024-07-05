@@ -44,6 +44,14 @@ This project showcases a collection of custom animations developed for React Nat
 
 ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG80Ym5mZGI0NXl6aGVyc2dkbmVyanFjdGsydXBsbzZlbG43YzhzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yu3RBXtXQVrL1UADi/giphy.gif)
 
+---
+
+**Custom Section List**: An animated section list for better user engagement.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1peDF3M2RrOWo1OHpvcjBtdHBxcDFjcTY1NWxlZmRjbXZkamRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AtY4y3OyQyLolD3uea/giphy.gif)
+
+---
+
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
 - **Behance Style Login**: A login animation inspired by Behance's sleek design.
@@ -58,7 +66,6 @@ This project showcases a collection of custom animations developed for React Nat
 
 - **Stacked Cards**: Cards that stack and animate smoothly.
 - **Menu Transition**: A menu that transitions with a unique animation.
-- **Custom Carousel**: A carousel component with custom animations.
 - **Custom Section List**: An animated section list for better user engagement.
 - **Smart Room Control**: Animations for a smart room control app.
 - **TodoCheckList**: Animations for checking Todos.s
