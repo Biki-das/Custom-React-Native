@@ -62,9 +62,14 @@ This project showcases a collection of custom animations developed for React Nat
 
 ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhjNTlzcTRhbm5teWN6YWNsaDZsZTAxeDI0ZTV0d3Y2Y3k2ZjN6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6rdEEMjj82zaDtDQd/giphy.gif)
 
----**Smart Room Control**: Animations for a smart room control app.
+**Smart Room Control**: Animations for a smart room control app.
 
 ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM5ZnB4YTdwdXlnN2VlOTJnemp0ZnpyZXlyOXZldzFuNGR3cDRtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YjY0i2utljXPriiURb/giphy.gif)
+
+---
+
+**Spending Insights**: Visual animations to represent spending habits.
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI5ZmIybGF0cGw2M3p4YjFmc29wYWt1cXA5eW9tZnYxaGQyM3hhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/47AZoEQlKgLAS7QgeZ/giphy.gif)
 
 ---
 
