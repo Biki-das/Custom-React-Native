@@ -34,6 +34,12 @@ This project showcases a collection of custom animations developed for React Nat
 
 ---
 
+**Custom Bottom Sheet**: An interactive bottom sheet with custom animations.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo3ZmtkZm5tY3N5dGUzZTYxZmFzMzluMm9yNXNpOXp4ZWRkd3FhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7ufDJGtGxyNSqOQar/giphy.gif)
+
+---
+
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
 - **Behance Style Login**: A login animation inspired by Behance's sleek design.
