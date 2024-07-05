@@ -40,6 +40,10 @@ This project showcases a collection of custom animations developed for React Nat
 
 ---
 
+**Custom Carousel**: A carousel component with custom animations.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG80Ym5mZGI0NXl6aGVyc2dkbmVyanFjdGsydXBsbzZlbG43YzhzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yu3RBXtXQVrL1UADi/giphy.gif)
+
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
 - **Behance Style Login**: A login animation inspired by Behance's sleek design.
