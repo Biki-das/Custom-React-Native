@@ -58,6 +58,12 @@ This project showcases a collection of custom animations developed for React Nat
 
 ---
 
+**Menu Transition**: A menu that transitions with a unique animation.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhjNTlzcTRhbm5teWN6YWNsaDZsZTAxeDI0ZTV0d3Y2Y3k2ZjN6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6rdEEMjj82zaDtDQd/giphy.gif)
+
+---
+
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
 - **Behance Style Login**: A login animation inspired by Behance's sleek design.
