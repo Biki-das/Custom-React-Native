@@ -62,6 +62,10 @@ This project showcases a collection of custom animations developed for React Nat
 
 ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhjNTlzcTRhbm5teWN6YWNsaDZsZTAxeDI0ZTV0d3Y2Y3k2ZjN6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6rdEEMjj82zaDtDQd/giphy.gif)
 
+---**Smart Room Control**: Animations for a smart room control app.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM5ZnB4YTdwdXlnN2VlOTJnemp0ZnpyZXlyOXZldzFuNGR3cDRtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YjY0i2utljXPriiURb/giphy.gif)
+
 ---
 
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
