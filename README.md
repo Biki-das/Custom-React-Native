@@ -24,7 +24,7 @@ This project showcases a collection of custom animations developed for React Nat
 
 **Behance Style Login**: A login animation inspired by Behance's sleek design.
 
-![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJmcjZvcDNjcmdkZXQxeHpld2tib2g2M3dkczlsMnN2eXkwMnJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KD8poIOBdK01R2DUBy/giphy.gif)
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdqdmZiaG5meXA1bGtwbGU2OWdoZnJmajJ1cG42cHd3enVpdmdicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ahgW0Wwldu5fgKyjBg/giphy.gif)
 
 ---
 
