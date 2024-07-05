@@ -106,23 +106,17 @@ This project showcases a collection of custom animations developed for React Nat
 
 ---
 
-- **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
-- **Streak Animation**: Visualize streaks in a fun and engaging way.
-- **Behance Style Login**: A login animation inspired by Behance's sleek design.
-- **Custom Bottom Sheet**: An interactive bottom sheet with custom animations.
-- **Waze Animation**: Recreating Waze's delightful animation patterns.
-- **Ticker Component**: A simple yet effective ticker animation.
--
-- **Spending Insights**: Visual animations to represent spending habits.
-- **Colorful Cards**: Animated cards with vibrant colors and transitions.
-- **Instagram Story Animation**: Capturing the essence of Instagram's story animations.
--
+**Theme Selector**: A Custom Animated Theme Selector.
 
-- **Stacked Cards**: Cards that stack and animate smoothly.
-- **Menu Transition**: A menu that transitions with a unique animation.
-- **Custom Section List**: An animated section list for better user engagement.
-- **Smart Room Control**: Animations for a smart room control app.
-- **TodoCheckList**: Animations for checking Todos.s
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG81bDUxenJyNmpreXhvdGUyd2huMGx0dWh0NDFqeTh5bzR5bnR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGPEkg9ZuB2FBVyVwY/giphy.gif)
+
+---
+
+**Waze Animation**: Recreating Waze's delightful animation patterns.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxZzdtN2U4cDFhNGszdGxtbHVyeWp0bmNqZDk0Y2JyMmo1eGRjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ilp6OWf3A7vGcY4dHB/giphy.gif)
+
+---
 
 ## Getting Started
 
