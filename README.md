@@ -123,11 +123,11 @@ This project showcases a collection of custom animations developed for React Nat
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Biki-das/custom-animations-react-native.git
+git clone https://github.com/Biki-das/Custom-React-Native.git
 ```
 
 ```bash
-cd custom-animations-react-native
+cd Custom-React-Native
 ```
 
 ```bash
