@@ -4,20 +4,23 @@ This project showcases a collection of custom animations developed for React Nat
 
 ## Features
 
+**Bank UI**: Animate transitions and interactions in a banking app.
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ0Nnl5NnB5bHIxd3pxamtjcXNreG1xY3Y0cXkyZmV2NGhrMmlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EswgoEhAeXrmx1IyO8/giphy.gif)
+
+**Banking Slider**: A slider animation tailored for banking applications.
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p2bnc1YTdya3pqOTlobjVveTgzbWhjYnUzN3U2MnJlb3d3bTI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdAJSClvlF9n1rbtk5/giphy.gif)
+
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
 - **Behance Style Login**: A login animation inspired by Behance's sleek design.
 - **Custom Bottom Sheet**: An interactive bottom sheet with custom animations.
 - **Waze Animation**: Recreating Waze's delightful animation patterns.
 - **Ticker Component**: A simple yet effective ticker animation.
-- **Bank UI**: Animate transitions and interactions in a banking app.
-  ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ0Nnl5NnB5bHIxd3pxamtjcXNreG1xY3Y0cXkyZmV2NGhrMmlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EswgoEhAeXrmx1IyO8/giphy.gif)
-
+-
 - **Spending Insights**: Visual animations to represent spending habits.
 - **Colorful Cards**: Animated cards with vibrant colors and transitions.
 - **Instagram Story Animation**: Capturing the essence of Instagram's story animations.
-- **Banking Slider**: A slider animation tailored for banking applications.
-  ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p2bnc1YTdya3pqOTlobjVveTgzbWhjYnUzN3U2MnJlb3d3bTI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdAJSClvlF9n1rbtk5/giphy.gif)
+-
 
 - **Stacked Cards**: Cards that stack and animate smoothly.
 - **Menu Transition**: A menu that transitions with a unique animation.
