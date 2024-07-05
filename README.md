@@ -16,6 +16,18 @@ This project showcases a collection of custom animations developed for React Nat
 
 ---
 
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZhdDJoaXBuc2xkcGllZWg1czA5eTQ2dDR6eWY2bzk0amMzaWU2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oVudd8DwOaOlFv98ru/giphy.gif)
+
+**Beat** A Beat Shopping Experience UI
+
+---
+
+**Behance Style Login**: A login animation inspired by Behance's sleek design.
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdqdmZiaG5meXA1bGtwbGU2OWdoZnJmajJ1cG42cHd3enVpdmdicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ahgW0Wwldu5fgKyjBg/giphy.gif)
+
+---
+
 - **Sticky Tab Scroll**: A tab view that sticks at the top of the screen as you scroll.
 - **Streak Animation**: Visualize streaks in a fun and engaging way.
 - **Behance Style Login**: A login animation inspired by Behance's sleek design.
