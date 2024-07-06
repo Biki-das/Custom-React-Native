@@ -23,7 +23,7 @@ import Animated, {
 } from 'react-native-reanimated';
 import {faker} from '@faker-js/faker';
 import BottomSheet, {BottomSheetFlatList} from '@gorhom/bottom-sheet';
-import {useLayout} from './useLayout';
+import {useLayout} from './hooks/useLayout';
 import {GestureHandlerRootView} from 'react-native-gesture-handler';
 
 const {width, height} = Dimensions.get('window');
