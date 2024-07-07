@@ -155,4 +155,5 @@ After running npm install to install your project's dependencies, navigate to th
 cd ios
 pod install
 cd ..
+npm run iOS
 ```
